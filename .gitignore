@@ -1,3 +1,17 @@
+/tmp
+/tags
+/pkg
+*.pprof
+/bin
+.idea
+.vscode
+*.swp
+/gocache-for-docker
+.DS_store
+Gemfile.lock
+/_site
+_site
+
 # If you prefer the allow list template instead of the deny list, see community template:
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #

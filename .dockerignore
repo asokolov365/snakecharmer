@@ -1,0 +1,4 @@
+.git
+vendor
+gocache-for-docker
+.vscode
