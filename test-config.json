@@ -1,0 +1,18 @@
+{
+    "workers": 256,
+    "max-burst": 1.5,
+    "bind-addr": "127.0.0.1",
+    "upstreams": [
+        "http://www.example1.com/",
+        "http://www.example2.com/",
+        "http://www.example3.com/"
+    ],
+    "log": {
+        "level": "warn",
+        "json": false,
+        "limit": {
+            "warn": 10,
+            "error": 10
+        }
+    }
+}
