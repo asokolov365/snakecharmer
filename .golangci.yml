@@ -1,3 +1,4 @@
+# https://golangci-lint.run/usage/linters/
 run:
   timeout: 5m
 
